@@ -2,5 +2,6 @@ this is pluto
 Pluto is awesome
 <<<<<<< HEAD
 Shakira is the best.
+I still think it is a planet.
 =======
 >>>>>>> 54c5028309f1cc70350dd5b7f9ee7cc586ccc719
