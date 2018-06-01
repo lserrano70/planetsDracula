@@ -1,3 +1,6 @@
 this is pluto
 Pluto is awesome
+<<<<<<< HEAD
 Shakira is the best.
+=======
+>>>>>>> 54c5028309f1cc70350dd5b7f9ee7cc586ccc719
